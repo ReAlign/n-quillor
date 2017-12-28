@@ -1,7 +1,7 @@
 {
-  "name": "quill",
-  "version": "1.3.4",
-  "description": "Your powerful, rich text editor",
+  "name": "n-quillor",
+  "version": "0.1.0",
+  "description": "Your powerful, rich text editor, fork from quill",
   "author": "Jason Chen <jhchen7@gmail.com>",
   "homepage": "http://quilljs.com",
   "main": "dist/quill.js",
